@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  text-align: center;
+  font-size: 13px;
+}
+h1 {
+  font-size: 22px;
+}
+input {
+  padding: 2px 3px;
+  width: 100px;
+  border: 1px solid #ccc;
+  margin: 5px;
+}
+.input-send{
+    padding: 2px 3px;
+    width: 792px;
+    display: inline-block;
+    border: 1px solid #e6e6e6;
+    height: 50px;
+}
+a {
+  color: #00f;
+}
+li{
+    list-style: none;
+}
